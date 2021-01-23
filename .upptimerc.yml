@@ -4,6 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: トータルリペアオーダーシステム
+    url: https://tr.ts1.biz
+  - name: パートナー情報システム
+    url: https://fc.ts1.biz
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
