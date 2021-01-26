@@ -4,6 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: ts-tokyo
+    url: https://www.ts-tokyo.co.jp
   - name: tr
     url: https://tr.ts1.biz
   - name: fc
