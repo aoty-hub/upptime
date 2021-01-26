@@ -8,6 +8,8 @@ sites:
     url: https://tr.ts1.biz
   - name: fc
     url: https://fc.ts1.biz
+  - name: pns
+    url: https://pns.ts1.biz
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
